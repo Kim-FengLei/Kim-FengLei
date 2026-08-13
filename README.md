@@ -25,6 +25,22 @@ Most memory systems just pile up data. Fenglei Memory refines it. Built on the *
 
 ---
 
+
+## <img src="icons/code.svg" width="22"> Project · Godot 4 GDScript Pitfalls · Now Open Source <sub>Godot 4 避坑指南 · 已开源</sub>
+
+**Real mistakes, proven fixes.** A field-tested collection of Godot 4 GDScript pitfalls — type traps, API changes, constant renames, syntax gotchas, and debugging tips, distilled from real project development.
+
+Every wrong example is a **real compile error** we hit. Every right example is the **fix we shipped**. No theory, no speculation.
+
+- <img src="icons/code.svg" width="18"> **Type Traps** — static typing pitfalls that compile but fail at runtime
+- <img src="icons/refresh.svg" width="18"> **API Changes** — Godot 3 to 4 breaking changes that break old code
+- <img src="icons/calendar.svg" width="18"> **Constant Renames** — what moved where in Godot 4
+- <img src="icons/zap.svg" width="18"> **Syntax Gotchas** — GDScript 2.0 quirks that waste hours
+- <img src="icons/globe.svg" width="18"> **Debugging Tips** — proven workflows to find bugs faster
+
+<p align="center"><img src="icons/shield.svg" width="18"> <b>Open Source · MIT License</b> · <a href="https://github.com/Kim-FengLei/godot4-gdscript-pitfalls">github.com/Kim-FengLei/godot4-gdscript-pitfalls</a></p>
+
+---
 ## <img src="icons/code.svg" width="22"> Tech Stack <sub>技术栈</sub>
 
 | | |
