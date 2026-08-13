@@ -48,7 +48,7 @@ New architecture · Multi-agent orchestration · Native tool calling. We are rew
 
 **WORTH THE WAIT**
 
-### <img src="icons/sun.svg" width="20"> Lily LLM <sub>莉莉</sub> — In Training
+### <img src="icons/sun.svg" width="20"> Lili LLM <sub>狸狸</sub> — In Training
 
 > A brand-new architecture — trained from scratch, not built on the traditional Transformer stack.
 
