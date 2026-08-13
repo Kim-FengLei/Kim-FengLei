@@ -1,16 +1,23 @@
-## Hi there 👋
+<p align="center">
+  <img src="profile_banner.png" alt="KIM · 风雷益 FENGLEI YI" width="100%">
+</p>
 
-<!--
-**Kim-FengLei/Kim-FengLei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# KIM · 风雷益 FENGLEI YI
 
-Here are some ideas to get you started:
+> **Founder of FENGLEI YI · Building next-gen LLMs & Agents · Marching toward AGI**
+>
+> 风雷益 · 天施地生，其益无方
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Project
+
+### [fenglei-memory](https://github.com/Kim-FengLei/fenglei-memory) · 风雷记忆
+
+A zero-dependency, methodology-based long-term memory system for AI agents. Now open source.
+
+---
+
+## 📬 Contact
+
+- **Email**: kim@realkaiten.cn
