@@ -21,7 +21,7 @@ Most memory systems just pile up data. Fenglei Memory refines it. Built on the *
 - <img src="icons/calendar.svg" width="18"> **Lifecycle Management** — daily cleanup, weekly review, monthly promotion
 - <img src="icons/globe.svg" width="18"> **Bilingual · Zero-Dependency** — one skill file, fits any agent framework
 
-<p align="center"><img src="icons/shield.svg" width="18"> <b>Open Source · Bilingual · MIT License</b></p>
+<p align="center"><img src="icons/shield.svg" width="18"> <b>Open Source · Bilingual · MIT License</b> · <a href="https://github.com/Kim-FengLei/fenglei-memory">github.com/Kim-FengLei/fenglei-memory</a></p>
 
 ---
 
