@@ -30,7 +30,7 @@ One prompt, N role-played perspectives, real friction. The Agent splits itself i
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kim-FengLei/multi-perspective-meeting/main/demo.gif" alt="Multi-Perspective Meeting demo" width="100%">
+  <img src="https://kim-fenglei.github.io/multi-perspective-meeting/demo.gif" alt="Multi-Perspective Meeting demo" width="100%">
 </p>
 
 <p align="center"><img src="icons/shield.svg" width="18"> <b>Open Source · MIT License</b> · <a href="https://github.com/Kim-FengLei/multi-perspective-meeting">github.com/Kim-FengLei/multi-perspective-meeting</a></p>
