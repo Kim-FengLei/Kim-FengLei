@@ -8,6 +8,10 @@
   <sub>风雷益创始人 · 天施地生，其益无方</sub>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kim-FengLei&amp;style=flat-square&amp;color=0e75b6" alt="Profile Views">
+</p>
+
 ---
 
 ## <img src="icons/users.svg" width="22"> Project · Multi-Perspective Meeting · Now Open Source <sub>多视角会议 · 已开源</sub>
@@ -20,6 +24,14 @@ One prompt, N role-played perspectives, real friction. The Agent splits itself i
 - <img src="icons/zap.svg" width="18"> **Real Debate, Not Echo** — cross-examination that surfaces blind spots and risks
 - <img src="icons/shield.svg" width="18"> **Zero Infrastructure** — no multi-model calls, no orchestration, no extra cost
 - <img src="icons/device.svg" width="18"> **Shareable HTML Minutes** — one click, a clean meeting record ready to send
+
+<p align="center">
+  <b>Try it live:</b> <a href="https://kim-fenglei.github.io/multi-perspective-meeting/run.html">Live Demo</a> · <a href="https://github.com/Kim-FengLei/multi-perspective-meeting">Source Code</a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kim-FengLei/multi-perspective-meeting/main/demo.gif" alt="Multi-Perspective Meeting demo" width="100%">
+</p>
 
 <p align="center"><img src="icons/shield.svg" width="18"> <b>Open Source · MIT License</b> · <a href="https://github.com/Kim-FengLei/multi-perspective-meeting">github.com/Kim-FengLei/multi-perspective-meeting</a></p>
 
@@ -56,6 +68,19 @@ Every wrong example is a **real compile error** we hit. Every right example is t
 <p align="center"><img src="icons/shield.svg" width="18"> <b>Open Source · MIT License</b> · <a href="https://github.com/Kim-FengLei/godot4-gdscript-pitfalls">github.com/Kim-FengLei/godot4-gdscript-pitfalls</a></p>
 
 ---
+
+## <img src="icons/globe.svg" width="22"> Latest Posts <sub>最新文章 · dev.to</sub>
+
+Writing in public — deep dives on agent memory, methodology, and hard-won lessons.
+
+- **Learn, Don't Store — A Zero-Dependency Memory Methodology for AI Agents** — why memory systems that pile up data fail, and a four-layer method that upgrades experience into skill. <sub>记忆方法论：学而非存</sub>
+- **How to Give Your AI Agent a Memory That Actually Learns** — a hands-on walkthrough of the Retain → Recall → Reflect → Promote cycle in practice. <sub>手把手：让 Agent 真正学会记忆</sub>
+- **Godot 4 GDScript Pitfalls: Every Mistake I Made So You Do Not Have To** — every compile error is real, every fix is proven. <sub>Godot 4 避坑：真错真改</sub>
+
+<p align="center"><img src="icons/globe.svg" width="18"> <b>Follow on dev.to</b> · <a href="https://dev.to/kimfenglei">dev.to/kimfenglei</a></p>
+
+---
+
 ## <img src="icons/code.svg" width="22"> Tech Stack <sub>技术栈</sub>
 
 | | |
