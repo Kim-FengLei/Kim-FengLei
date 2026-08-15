@@ -10,6 +10,21 @@
 
 ---
 
+## <img src="icons/users.svg" width="22"> Project · Multi-Perspective Meeting · Now Open Source <sub>多视角会议 · 已开源</sub>
+
+**One Agent, many minds.** Turn a single AI Agent into a full multi-perspective meeting with real debate — then get a shareable HTML minutes file.
+
+One prompt, N role-played perspectives, real friction. The Agent splits itself into multiple viewpoints, cross-examines them, converges into conclusions, and hands you a polished meeting record. No extra model calls. No infrastructure. No cost increase. <sub>一个 Agent，N 种视角，一场有交锋的真实会议</sub>
+
+- <img src="icons/users.svg" width="18"> **One Agent, Many Minds** — one prompt, N perspectives debating with real friction
+- <img src="icons/zap.svg" width="18"> **Real Debate, Not Echo** — cross-examination that surfaces blind spots and risks
+- <img src="icons/shield.svg" width="18"> **Zero Infrastructure** — no multi-model calls, no orchestration, no extra cost
+- <img src="icons/device.svg" width="18"> **Shareable HTML Minutes** — one click, a clean meeting record ready to send
+
+<p align="center"><img src="icons/shield.svg" width="18"> <b>Open Source · MIT License</b> · <a href="https://github.com/Kim-FengLei/multi-perspective-meeting">github.com/Kim-FengLei/multi-perspective-meeting</a></p>
+
+---
+
 ## <img src="icons/layers.svg" width="22"> Project · Fenglei Memory · Now Open Source <sub>风雷记忆 · 已开源</sub>
 
 **Learn, Don't Just Store** — a four-layer memory methodology that turns experience into skill.
